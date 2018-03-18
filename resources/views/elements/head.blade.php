@@ -9,10 +9,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="canonical" href="https://www.dontpayfull.com/at/amazon.co.uk">
-    <link href="{{ asset('/public/css/') }}css" rel="stylesheet">
     <link rel="shortcut icon" type="image/ico" href="https://static.dontpayfull.com/static/images/favicons/favicon.ico">
     
-    <script src="{{ asset('/public/js/') }}rules-p-WwEk0LaHnecps.js" async=""></script>
-	<script async="" src="{{ asset('/public/js/') }}gtm.js"></script>
-	<script src="{{ asset('/public/js/') }}OneSignalSDK.js" async=""></script>
+	<script src="{{ asset('js') }}/OneSignalSDK.js" async=""></script>
 </head>

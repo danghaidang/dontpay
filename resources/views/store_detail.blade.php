@@ -477,17 +477,17 @@
             <div class="content">
                 <div data-href="" class="dpf-image sidebar__blog-post">
                     <a href="https://www.dontpayfull.com/blog/how-to-save-money" target="_BLANK" style="display: block">
-                        <img src="/static/images/blogposts/money-saving-tips.png" data-original="/static/images/blogposts/money-saving-tips.png" class="sidebar__image img-responsive lazy-load" alt="How To Save Money" style="">
+                        <img src="{{ asset('image') }}/money-saving-tips.png" data-original="{{ asset('image') }}/money-saving-tips.png" class="sidebar__image img-responsive lazy-load" alt="How To Save Money" style="">
                     </a>
                 </div>
                 <div data-href="" class="dpf-image sidebar__blog-post">
                     <a href="https://www.dontpayfull.com/blog/top-10-cheapest-travel-destinations-from-around-the-world" target="_BLANK" style="display: block">
-                        <img src="/static/images/blogposts/cheapest-travel-destinations.png" data-original="/static/images/blogposts/cheapest-travel-destinations.png" class="sidebar__image img-responsive lazy-load" alt="Cheapest Travel Destinations" style="">
+                        <img src="{{ asset('image') }}/cheapest-travel-destinations.png" data-original="{{ asset('image') }}/cheapest-travel-destinations.png" class="sidebar__image img-responsive lazy-load" alt="Cheapest Travel Destinations" style="">
                     </a>
                 </div>
                 <div data-href="" class="dpf-image sidebar__blog-post">
                     <a href="https://www.dontpayfull.com/blog/secret-shopping-tricks" target="_BLANK" style="display: block">
-                        <img src="/static/images/blogposts/best-time-to-buy-anything.png" data-original="/static/images/blogposts/best-time-to-buy-anything.png" class="sidebar__image img-responsive lazy-load" alt="Best Time To Buy Anything" style="">
+                        <img src="{{ asset('image') }}/best-time-to-buy-anything.png" data-original="{{ asset('image') }}/best-time-to-buy-anything.png" class="sidebar__image img-responsive lazy-load" alt="Best Time To Buy Anything" style="">
                     </a>
                 </div>
             </div>

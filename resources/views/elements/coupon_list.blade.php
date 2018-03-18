@@ -21,7 +21,7 @@
                         <div class="comments show-comments no-comments" title="Add comment">
                             <i class="df-coupon-ic df-comments-o"></i>
                             <span>Add comment</span>
-                            <img data-original="/coupons/trackview/id/16909103?source=viewstore" class="lazytrack" src="{{ asset('/public/image/') }}16909103" style="">
+                            <img data-original="/coupons/trackview/id/16909103?source=viewstore" class="lazytrack" src="{{ asset('/image') }}/16909103" style="">
                         </div>
                     </div>
                     <div class="action terms-action">
